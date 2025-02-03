@@ -1,0 +1,6 @@
+torch
+torchvision
+sklearn
+tqdm
+einops
+kappamodules
